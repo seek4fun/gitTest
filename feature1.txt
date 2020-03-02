@@ -4,3 +4,7 @@ function add() {
 function xxx() {
     return yyy;
 }
+
+function add () {
+    return 1;
+}
