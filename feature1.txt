@@ -8,3 +8,12 @@ function xxx() {
 function add () {
     return 1;
 }
+
+function abstract() {
+    return 0;
+}
+
+function call() {
+    return 111;
+}
+
